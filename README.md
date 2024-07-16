@@ -77,3 +77,7 @@ The game checks the following combinations for a win:
 ![s1](./assets/s1.png)
 ![s2](./assets/s2.png)
 ![s3](./assets/s3.png)
+
+## Demo
+
+[Demo](https://66960d0cb4404c374e8554ba--static-tic-tac-toe.netlify.app/)
